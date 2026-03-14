@@ -48,10 +48,11 @@ Backend integration for SMS OTP, biometric auth, and document verification.
 Cloud storage for profile images and uploaded documents.
 Real-time messaging and notification systems.
 
-You can Download or view UI/UX Adobe XD File and prototype video Using below Google Drive Link
-https://drive.google.com/drive/folders/1mouCXcdqsTqSREfEBRneItFe_4eap_RQ?usp=sharing
 Goals of the UI/UX Design
 Provide a seamless, secure, and engaging user experience.
+
+You can Download or view UI/UX Adobe XD File and prototype video Using below Google Drive Link
+https://drive.google.com/drive/folders/1mouCXcdqsTqSREfEBRneItFe_4eap_RQ?usp=sharing
 Foster trust through identity verification.
 Encourage social interaction and community building.
 Ensure ease of use for non-technical users with intuitive flows.
